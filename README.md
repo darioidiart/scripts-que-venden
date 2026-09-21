@@ -14,3 +14,16 @@
 
 Creado por Dario Idiart | Automatizaciones para e-commerce MdQ
 Contacto para trabajos: [1141437299]
+# Scripts que Venden
+
+Automatizaciones en Python para e-commerce.
+
+**Script 1 - Organizador de Fotos ML:** Renombra y optimiza 200 fotos en 10 seg.
+Uso: python organizador_de_fotos_ml.py
+
+**Script 2 - Scraper Precios ML:** Scrapea precios de Mercado Libre y genera Excel con promedio.
+Uso: python scraper_precios_ml.py
+
+Instalacion: pip install pillow requests beautifulsoup4 pandas openpyxl
+
+Autor: Dario Idiart - Marcos Paz
